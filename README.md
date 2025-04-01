@@ -38,7 +38,7 @@ Ensure you have **Node.js** installed on your system.
    ```
 4. Start the development server:  
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## 🎮 Usage  
@@ -54,8 +54,5 @@ Ensure you have **Node.js** installed on your system.
 🎨 Enhance **UI/UX**.  
 
 ## 📎 Attachments  
-![Project Dashboard](https://github.com/AqibNiazi/countdown/blob/main/screenshot/countdown.png)
+![Project Dashboard](https://github.com/AqibNiazi/countdown/blob/main/public/countdown.png)
 
-## 👨‍💻 Author  
-📌 **[Aqib Niazi](https://github.com/AqibNiazi)**  
-🔗 **[GitHub Repository](https://github.com/AqibNiazi/countdown)**  
